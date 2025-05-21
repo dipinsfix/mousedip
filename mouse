@@ -1,0 +1,9 @@
+{
+    "WheelEnable": false,
+    "WheelLang": ["Turkish"],
+    "WheelTime": ["Istanbul", "Turkey"],
+    "WheelLink": 
+    [ 
+          { "Lang":"Turkish", "Links": [""]}
+    ]
+ }
